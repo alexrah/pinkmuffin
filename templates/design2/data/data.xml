@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="2" title="Home" alias="article" path="/new-page" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-top-width:1px;border-right-width:1px;border-bottom-width:1px;border-left-width:1px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #F3D3D8;background: rgba(243, 211, 216, 0.5); border-spacing: 0px 10px; border-collapse: separate; border-radius: 10px; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-right-style:solid;border-right-width:1px;border-right-color:#565E71; color: #000000; padding-right: 10px;padding-left: 10px; border-top-left-radius: 10px;border-bottom-left-radius: 10px; width:33%" >
+        <p style="text-align: center;"><img alt="" class="art-lightbox" src="images/template-content/3_128x128-2.png" style="margin-top: 0%; margin-right: 0%; margin-bottom: 0%; margin-left: 0%; float: right; width: 100%;"></p>
+    </div><div class="art-layout-cell" style="border-right-style:solid;border-right-width:1px;border-right-color:#565E71; color: #000000; padding-right: 10px;padding-left: 10px; width:34%" >
+        <p><img style="margin-top: 0%; margin-right: 0%; margin-bottom: 0%; margin-left: 0%; width: 100%;" alt="" class="art-lightbox" src="images/template-content/20_128x128-2-2.png"><br></p>
+    </div><div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; border-top-right-radius: 10px;border-bottom-right-radius: 10px; width:33%" >
+        <p><img style="margin-top: 0%; margin-right: 0%; margin-bottom: 0%; margin-left: 0%;  width: 100%;" alt="" class="art-lightbox" src="images/template-content/13_128x128-2-2.png"><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout" style="color: #000000; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-right-style:solid;border-right-width:1px;border-right-color:#565E71; color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><span style="color: rgb(69, 75, 89); font-family: Alef, Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px; line-height: 14px;"><img style="float: left; " width="117" height="117" alt="" class="art-lightbox" src="images/template-content/9_128x128-2.png">Suspendisse purus sem, semper non sem id, fermentum eleifend mauris. Curabitur luctus dui elit, sit amet auctor nunc aliquam in. Phasellus placerat quis nulla a malesuada. Aenean semper venenatis libero, vitae sollicitudin sem mollis in. Aenean a egestas mauris, et mollis nisi. Vestibulum eget ligula at leo lobortis fringilla non ut nisl. Mauris ut malesuada metus. Maecenas sollicitudin vestibulum hendrerit. Curabitur et odio tincidunt, sagittis quam in, pulvinar est. Nullam diam purus, dapibus et pellentesque ac, ornare a metus. Praesent vel quam nulla. Nulla dignissim porttitor nibh, non rutrum dolor porta nec. Etiam rhoncus velit eu interdum euismod. In dignissim ultrices mauris, sit amet elementum orci rhoncus nec.&nbsp;&nbsp;egestas mauris, et mollis nisi. Vestibulum eget ligula at leo lobortis fringilla non ut nisl. Mauris ut malesuada metus. Maecenas sollicitudin vestibulum hendrerit. Curabitur et odio tincidunt, sagittis quam in, pulvinar.</span><br></p><p>
+        </p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <h3>REALIZZIAMO TORTE E MUFFIN SU PRENOTAZIONE</h3><hr style="border:none;background-color:#B50A56;color:#B50A56;height:2px;">
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:50%" >
+        <ul><li><span style="line-height: 14px; text-align: justify; font-family: alef, Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px; color: #454B59;">Suspendisse purus sem, semper non sem id, fermentum eleifend mauris. Curabitur luctus dui elit,</span></li><li><span style="line-height: 14px; text-align: justify; font-family: alef, Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px; color: #454B59;">sit amet auctor nunc aliquam in. Phasellus placerat quis nulla a malesuada.</span></li><li><span style="font-size: 16px;"><span style="line-height: 14px; text-align: justify; font-family: alef, Arial, 'Arial Unicode MS', Helvetica, sans-serif; color: #454B59;">Aenean semper venenatis libero, vitae sollicitudin sem mollis in. Aenean a egestas mauris, et mollis nisi.&nbsp;</span><br></span></li><li><span style="line-height: 14px; text-align: justify; font-family: alef, Arial, 'Arial Unicode MS', Helvetica, sans-serif; font-size: 16px; color: #454B59;">Curabitur et odio tincidunt, sagittis quam in, pulvinar est. Nullam diam purus, dapibus et pellentesque ac, ornare a metus.&nbsp;</span><br></li></ul><p>
+        </p>
+    </div><div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:50%" >
+        <p style="text-align: center;"><img style="margin-top: 0%; margin-right: 0%; margin-bottom: 0%; margin-left: 0%; " width="243" height="195" alt="" class="art-lightbox" src="images/template-content/maps.png"><br></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="2" category="2" title="Contacts" alias="article-1" path="/new-page-2" description="" keywords="">
+            <![CDATA[<hr style="border:none;background-color:#B50A56;color:#B50A56;height:2px;"><p>Risus ac pellentesque. Montes hendrerit ante metus.  Nunc sed eu euismod accumsan metus per mauris laoreet vitae vestibulum mollis imperdiet mauris.  Et eu urna fermentum non posuere enim est. Vestibulum ut nulla nulla consectetuer blandit dolor varius vel tincidunt et vitae dapibus fringilla eu.</p><p><span style="color: rgb(238, 239, 242); font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 22px; font-style: italic; text-transform: uppercase;">Tellus hac.</span></p><p>Nulla gravida risus varius non.<br>  Principale Città, Country 12345-6789</p><p>Dapibus posuere ut.<br>  In sollicitudin id.</p><p>A. <a href="http://www.domain.com">http://www.domain.com</a><br>  A.<a href="mailto:email@domain.com">email@domain.com</a></p><p><br></p>]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Home" alias="ct-menu-item-1" path="/new-page" menutype="hmenu" type="single-article" article="1" showTitle="no" category="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Home" alias="ct-menu-item-2" path="/new-page" menutype="vmenu" type="single-article" article="1" showTitle="no" category="1" default="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Contacts" alias="ct-menu-item-3" path="/new-page-2" menutype="hmenu" type="single-article" article="2" showTitle="yes" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Contacts" alias="ct-menu-item-4" path="/new-page-2" menutype="vmenu" type="single-article" article="2" showTitle="yes" category="1"/>
+        <menuitem id="5" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-5" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="6" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-6" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="VMenu" showTitle="true" position="position-7" style="art-vmenu" menu="ct-vertical-menu" type="menu"/>
+        <module id="2" title="ultime novitá" showTitle="true" position="position-7" type="custom">
+            <![CDATA[<p><img width="64" height="64" alt="" src="images/template-content/11_64x64.png" style="float: left;" class="">Justo augue nec odio. Sed nibh aliquet cras primis convallis urna enim. Erat ut tempor vivamus a vivamus rutrum metus eu sed auctor. <a href="#">Read More</a><br></p><p><img width="64" height="64" alt="" src="images/template-content/16_64x64.png" style="float: left;" class="">Adipiscing eget nisl nulla nec ipsum duis vel ultrices ac sit. Et augue fermentum natoque nunc sed. Elit donec nam nec suspendisse eget.<a href="#">Read More</a><br></p>]]>
+        </module>
+        <module id="3" title="prenotazioni" showTitle="true" position="position-7" type="custom">
+            <![CDATA[<p style="text-align: left;"><img width="48" height="48" alt="" src="images/template-content/4_48x48.png" class=""><img width="48" height="48" alt="" src="images/template-content/44_48x48.png" class=""><img width="48" height="48" alt="" src="images/template-content/39_48x48.png" class=""><br></p>]]>
+        </module>
+        <module id="4" title="Footer" showTitle="false" position="position-27" type="custom">
+            <![CDATA[
+<br>Quis urna consequat posuere tellus at libero sem ante. <a href="http://artdesigner.lv/archives/717">artdesigner.lv</a> | Altro icons by <a href="http://www.iconeden.com/">iconeden.com</a><br clear="all"><br><br>
+]]>
+        </module>
+    </modules>
+    <parameters/>
+</data>
