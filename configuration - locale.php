@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = 'This site is down for maintenance.<br /> Please check back again soon.';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'muffin1';
+	public $sitename = 'muffincakes3';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -12,10 +12,10 @@ class JConfig {
 	public $debug = '0';
 	public $debug_lang = '0';
 	public $dbtype = 'mysqli';
-	public $host = '62.149.150.154';
-	public $user = 'Sql544825';
-	public $password = '0d7cbdf9';
-	public $db = 'Sql544825_1';
+	public $host = 'localhost';
+	public $user = 'muffin1';
+	public $password = 'muffin1';
+	public $db = 'muffin3';
 	public $dbprefix = 'os914_';
 	public $live_site = '';
 	public $secret = 'PFZnb3ZTSi1eWDk3';
@@ -53,8 +53,8 @@ class JConfig {
 	public $sef_suffix = '0';
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
-	public $log_path = 'C:\\xampp\\htdocs\\muffin1/logs';
-	public $tmp_path = 'C:\\xampp\\htdocs\\muffin1/tmp';
+	public $log_path = 'C:\\xampp\\htdocs\\muffincakes3/logs';
+	public $tmp_path = 'C:\\xampp\\htdocs\\muffincakes3/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 }
