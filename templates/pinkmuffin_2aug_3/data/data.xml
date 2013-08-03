@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <categories>
+        <category id="1" title="Featured"/>
+        <category id="2" title="Articles"/>
+    </categories>
+    <articles>
+        <article id="1" category="1" title="Post" alias="article" path="/Blog Posts/post">
+            <![CDATA[<p><br/></p>]]>
+        </article>
+        <article id="2" category="2" title="Home" alias="article-1" path="/new-page" description="" keywords="">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding: 0px; width:100%" >
+        <p><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout" style=" border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding: 0px; width:40%" >
+        <p><img width="272" height="364" alt="" class="art-lightbox" src="images/template-content/522387_496569737030154_1187332681_n.jpg" style="margin-top: 0px; "><br></p>
+    </div><div class="art-layout-cell" style="padding-top: 0px;padding-right: 5px;padding-bottom: 5px;padding-left: 5px; width:60%" >
+        <h3>bENVENUTI DA mUFFIN&amp;cAKES</h3>
+        <p><span style="font-weight: bold;"><span style="font-style: italic; color: #424857;">Fusce et mauris eget arcu sagittis lacinia laoreet et arcu. Praesent eleifend molestie lacus ac convallis. Proin non lectus non risus auctor venenatis. Proin gravida elit sed erat rutrum porttitor dapibus augue mollis.</span></span><span style="color: #424857;">&nbsp;</span></p>
+        <p><span style="color: #333742;">Cras quis egestas leo. Praesent nec turpis odio, a placerat orci. Duis nisl libero, dignissim in tristique et, pellentesque at nisl. Duis tempor sem ac neque facilisis varius. Nam aliquet imperdiet consectetur. Morbi varius pretium turpis, nec condimentum quam pulvinar vitae. Curabitur vitae ante in elit commodo faucibus. Pellentesque sit amet urna nunc.</span></p>
+        <p><span style="color: #333742;">Duis neque nulla, sodales non tristique non, sagittis eu purus. Nullam ac eros leo, a sagittis lacus. Duis aliquet cursus massa eu sodales. Etiam nec erat a felis egestas consectetur vitae ut diam. Nunc tortor nunc, hendrerit consectetur volutpat non, consequat eu massa. Donec accumsan diam semper odio lobortis sed pretium nisl pretium.&nbsp;</span></p>
+        <p>&nbsp;<br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" >
+        <h3>Gli specialisti del DeSsert</h3>
+        <hr style="border:none;background-color:#B50A56;color:#B50A56;height:2px;">
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><img width="198" height="148" style="margin-top: 7px; margin-right: 7px; margin-bottom: 7px; margin-left: 7px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="images/template-content/89d17b58-0874-4344-a8f3-119c454c2752.png">
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        </p><p><br></p>
+    </div><div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:34%" >
+        <p><img width="198" height="148" style="margin-top: 7px; margin-right: 7px; margin-bottom: 7px; margin-left: 7px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="images/template-content/cba24b39-155e-4d2e-9d74-93b36e34ccb9.png">
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        </p><p><br></p>
+    </div><div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><img width="200" height="149" style="margin-top: 7px; margin-right: 7px; margin-bottom: 7px; margin-left: 7px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="images/template-content/cb0d7ff6-ff25-442e-afc5-c6fb0bea63dc.png">
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+        </p><p><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><span style="font-weight: bold;"><span style="font-style: italic; color: rgb(66, 72, 87);">Fusce et mauris eget arcu sagittis lacinia laoreet et arcu. Praesent eleifend molestie lacus ac convallis. Proin non lectus non risus auctor venenatis. Proin gravida elit sed erat rutrum porttitor dapibus augue mollis.</span></span>&nbsp;<br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="3" category="2" title="MENÚ &amp;Cakes" alias="article-2" path="/menucakes" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 15px;margin-bottom: 10px;">
+<div class="art-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000;  border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #DFE1E7;background: rgba(223, 225, 231, 0.65); padding-right: 10px;padding-left: 10px; width:33%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 1:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; padding-right: 10px;padding-left: 10px; width:34%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 2:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #DFE1E7;background: rgba(223, 225, 231, 0.65); padding-right: 10px;padding-left: 10px; width:33%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 3:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><img width="201" height="150" alt="" class="art-lightbox" src="images/template-content/581672_603003319720128_874705406_n.jpg"><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #DFE1E7;background: rgba(223, 225, 231, 0.65); padding-right: 10px;padding-left: 10px; width:34%" >
+        <p><img width="211" height="157" alt="" class="art-lightbox" src="images/template-content/998322_597188263634967_1839534392_n.jpg"><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><img width="201" height="150" alt="" class="art-lightbox" src="images/template-content/179757_593611427325984_1711719587_n.jpg"><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71;border-top:none !important; color: #000000; background: #DFE1E7;background: rgba(223, 225, 231, 0.65); padding-right: 10px;padding-left: 10px; width:33%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 4:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71;border-top:none !important; padding-right: 10px;padding-left: 10px; width:34%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 5:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71;border-top:none !important; color: #000000; background: #DFE1E7;background: rgba(223, 225, 231, 0.65); padding-right: 10px;padding-left: 10px; width:33%" >
+        <ul><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Menu 6:</span></h5><h5><span style="font-size: 11px;">&nbsp;elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">n augue lobortis, consectetur enim quis, tempus dolor.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.</span></h5></li><li style="text-align: left;"><h5><span style="line-height: 14px; font-weight: normal; font-size: 11px;">Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae&nbsp;</span></h5></li></ul><p><br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="4" category="2" title="Contacts" alias="article-3" path="/new-page-2" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-top: 42px;margin-bottom: 10px;">
+<div class="art-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #DFE1E7; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <hr style="border:none;background-color:#B50A56;color:#B50A56;height:2px;">
+         
+        <p>nunc sit amet elit dui. pellentesque vitae purus nulla. ut accumsan, est eu sodales viverra, dui eros elementum libero, non pulvinar lorem nibh et augue. proin in justo<span style="color: rgb(66, 72, 87); letter-spacing: 1px; font-family: Verdana; font-size: 12px;"></span><span style="font-style: italic; font-size: 18px; color: rgb(66, 72, 87); letter-spacing: 1px; font-family: Arial, 'Arial Unicode MS', Helvetica, sans-serif;">&nbsp;</span></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" >
+        <p><img width="332" height="248" style="margin-top: 7px; margin-right: 7px; margin-bottom: 7px; margin-left: 7px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="images/template-content/fc27bfec-0f1f-4087-acc7-72c3b45934c7.png">
+         
+         
+         
+         
+         
+        </p><p><br></p>
+    </div><div class="art-layout-cell" style="padding-right: 10px;padding-left: 10px; width:50%" >
+        <p></p><img width="325" height="242" style="margin-top: 7px; margin-right: 7px; margin-bottom: 7px; margin-left: 7px; border-top-width: 0px; border-right-width: 0px; border-bottom-width: 0px; border-left-width: 0px;" alt="" class="art-lightbox" src="images/template-content/ac2d4b36-1a15-41f9-990f-be7c5805d07c.png">
+        
+         
+         
+         
+         
+        <p><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-right: 14px;margin-bottom: 10px;margin-left: 15px;">
+<div class="art-content-layout" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; color: #000000; background: #DFE1E7; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p>Nunc sit amet elit dui. Pellentesque vitae purus nulla. Ut accumsan, est eu sodales viverra, dui eros elementum libero, non pulvinar lorem nibh et augue. Proin in justo magna, eu consectetur metus. Fusce congue, eros eget consequat egestas, est lorem feugiat tellus, feugiat pharetra dui turpis in arcu.&nbsp;</p><p><span style="font-family: 'Trebuchet MS', Arial, Helvetica, sans-serif; font-size: 22px; font-style: italic; text-transform: uppercase; color: #2F333D;">Ci trovate qui:</span></p><p>Piazza Torlaro<br>Albenga, Savona 12345-6789</p><p>T: (555) 123 - 4567<br>F: (555) 523 - 4567</p><p>W:&nbsp;<a href="http://www.domain.com">http://www.domain.com</a><br>E: &nbsp;<a href="mailto:email@domain.com">email@domain.com</a></p><p><br></p>
+    </div>
+    </div>
+</div>
+</div>
+]]>
+        </article>
+        <article id="5" category="2" title="Veniteci a trovare di persona" alias="article-4" path="/laboratorio" description="" keywords="">
+            <![CDATA[<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="padding-top: 10px; width:50%" >
+        <p></p><ul><li><p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px;">Piazza Torlaro<br>Albenga, Savona 12345-6789</p><p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px;">T: (555) 123 - 4567<br>F: (555) 523 - 4567</p><p style="margin-top: 12px; margin-right: 0px; margin-bottom: 12px; margin-left: 0px;">W:&nbsp;<a href="http://www.domain.com">http://www.domain.com</a><br>E: &nbsp;<a href="mailto:email@domain.com">email@domain.com</a></p></li><li><br></li></ul><p>
+        </p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: center;"><img width="243" height="195" alt="" class="art-lightbox" src="images/template-content/maps1.png"><span style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px;"><br></span></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; background: #DFE1E7; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><span style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;">Fusce elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum non augue lobortis, consectetur enim quis, tempus dolor. Vestibulum et magna ipsum. Aliquam congue interdum nulla vel elementum. Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae blandit porta, lorem erat sollicitudin mauris, et fermentum mauris velit nec justo. Mauris sit amet arcu vitae lectus viverra dictum. Donec vel libero bibendum, condimentum ligula quis, dictum metus. Nunc elementum erat ac turpis pulvinar facilisis. Morbi aliquam mauris egestas, consectetur neque sed, luctus urna. Aenean vehicula malesuada aliquet. Duis tincidunt velit non adipiscing mollis. Praesent tincidunt vel turpis rutrum dignissim.</span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-br" style="border-top-width:1px;border-top-style:solid;border-top-color:#565E71;margin-top: 10px;margin-bottom: 10px;">
+</div><div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:50%" >
+        <p><img width="344" height="470" alt="" class="art-lightbox" src="images/template-content/936451_598144633539330_803585905_n.jpg"><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p><img width="344" height="470" alt="" class="art-lightbox" src="images/template-content/936451_598144633539330_803585905_BB.jpg"><br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="6" category="2" title="Le ultime novitá" alias="article-5" path="/news" description="" keywords="">
+            <![CDATA[<div class="art-content-layout-wrapper" style="margin-right: 10px;margin-bottom: 10px;margin-left: 10px;">
+<div class="art-content-layout" style="color: #000000; background: #DFE1E7; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><span style="font-family: Arial;">Menu 2:
+         elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no
+         n augue lobortis, consectetur enim quis, tempus dolor.
+         Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.
+         Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae 
+        </span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout" style="border-spacing: 10px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><span style="font-family: Arial;">Menu 2:
+         elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no
+         n augue lobortis, consectetur enim quis, tempus dolor.
+         Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.
+         Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae 
+        </span><br></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; padding-right: 10px;padding-left: 10px; width:34%" >
+        <p><img width="195" height="253" alt="" class="art-lightbox" src="images/template-content/Cupcake_512x512-2-2.png"><span style="font-family: Arial;"><br></span></p>
+    </div><div class="art-layout-cell" style="border-top-style:solid;border-right-style:solid;border-bottom-style:solid;border-left-style:solid;border-width:0px;border-top-color:#565E71;border-right-color:#565E71;border-bottom-color:#565E71;border-left-color:#565E71; padding-right: 10px;padding-left: 10px; width:33%" >
+        <p><span style="font-family: Arial;">Menu 2:
+         elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no
+         n augue lobortis, consectetur enim quis, tempus dolor.
+         Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.
+         Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae 
+        </span><br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-wrapper" style="margin-bottom: 10px;">
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; background: #DFE1E7; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p>Menu 2:
+         elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no
+         n augue lobortis, consectetur enim quis, tempus dolor.
+         Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.
+         Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae 
+        <br></p><p>Menu 2:
+         elementum mauris purus, a lobortis nulla rhoncus vel. Vestibulum no
+         n augue lobortis, consectetur enim quis, tempus dolor.
+         Vestibulum et magna ipsum. Aliquam interdum nulla vel elementum.
+         Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae 
+        <br></p>
+    </div>
+    </div>
+</div>
+</div>
+<div class="art-content-layout-br" style="border-top-width:1px;border-top-style:solid;border-top-color:#565E71;margin-top: 10px;margin-bottom: 10px;">
+</div><div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="color: #000000; padding-right: 10px;padding-left: 10px; width:100%" >
+        <p><img width="681" height="159" alt="" class="art-lightbox" src="images/template-content/935409_577817635572030_1386411395_BB.jpg"><br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+        <article id="7" category="2" title="New Page" alias="article-6" path="/contatto" description="" keywords="">
+            <![CDATA[<div class="art-content-layout" style="border-spacing: 20px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:50%" >
+        <p style="text-align: justify;"><span style="font-family: Arial, Helvetica, sans; line-height: 14px; font-size: 18px;">Suspendisse venenatis</span><span style="font-family: Arial, Helvetica, sans; line-height: 14px; text-align: justify; font-size: 18px;"></span> <span style="font-family: Arial, Helvetica, sans; line-height: 14px; text-align: justify; font-size: 12px;">mauris purus, a lobortis nulla rhoncus vel. Vestibulum non augue lobortis, consectetur enim quis, tempus dolor. Vestibulum et magna ipsum. Aliquam congue interdum nulla vel elementum. Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae blandit porta, lorem erat sollicitudin mauris, et fermentum mauris velit nec justo. Mauris sit amet arcu vitae lectus viverra dictum. Donec vel libero bibendum, condimentum ligula quis, dictum metus. Nunc elementum erat ac turpis pulvinar facilisis. Morbi aliquam mauris egestas,&nbsp;</span><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p><span style="font-family: Arial, Helvetica, sans; line-height: 14px; text-align: justify; font-size: 18px;">Fusce elementum</span> <span style="font-family: Arial, Helvetica, sans; line-height: 14px; text-align: justify; font-size: 12px;">mauris purus, a lobortis nulla rhoncus vel. Vestibulum non augue lobortis, consectetur enim quis, tempus dolor. Vestibulum et magna ipsum. Aliquam congue interdum nulla vel elementum. Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae blandit porta, lorem erat sollicitudin mauris, et fermentum mauris velit nec justo. Mauris sit amet arcu vitae lectus viverra dictum. Donec vel libero bibendum, condimentum ligula quis, dictum metus. Nunc elementum erat ac turpis pulvinar facilisis. Morbi aliquam mauris egestas,</span><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout" style="border-spacing: 20px 0px; border-collapse: separate; ">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:50%" >
+        <p><span style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;">Fuelementum. Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae blandit porta, lorem erat sollicitudin mauris, et fermentum mauris velit nec justo. Mauris sit amet arcu vitae lectus viverra dictum. Donec vel l</span><br></p>
+    </div><div class="art-layout-cell" style="width:50%" >
+        <p><span style="font-family: Arial, Helvetica, sans; font-size: 11px; line-height: 14px; text-align: justify;">Aliquam congue interdum nulla vel elementum. Mauris mi nunc, convallis bibendum ante id, tristique iaculis odio. Sed sit amet ultrices dui. Suspendisse venenatis felis ut mi fringilla porttitor. Vivamus tristique, neque vitae blandit porta, lorem erat sollicitudin mauris, et fermentum mauris velit nec justo. Mauris sit amet arcu vitae lectus&nbsp;</span><br></p>
+    </div>
+    </div>
+</div>
+<div class="art-content-layout">
+    <div class="art-content-layout-row">
+    <div class="art-layout-cell" style="width:100%" >
+        <p><img width="710" height="405" alt="" class="art-lightbox" src="images/template-content/946323_578143772206083_554628995_BB.jpg"><br></p>
+    </div>
+    </div>
+</div>
+]]>
+        </article>
+    </articles>
+    <menus>
+        <menu id="1" name="ct-horizontal-menu" title="Content / Horizontal Menu"/>
+        <menu id="2" name="ct-vertical-menu" title="Content / Vertical Menu"/>
+        <menu id="3" name="ct-special-menu" title="Content / Special Menu"/>
+    </menus>
+    <menuitems>
+        <menuitem id="1" menu="ct-horizontal-menu" title="Home" alias="ct-menu-item-1" path="/new-page" menutype="hmenu" type="single-article" article="2" showTitle="no" category="1" default="1"/>
+        <menuitem id="2" menu="ct-vertical-menu" title="Home" alias="ct-menu-item-2" path="/new-page" menutype="vmenu" type="single-article" article="2" showTitle="no" category="1"/>
+        <menuitem id="3" menu="ct-horizontal-menu" title="Menú&amp;Cakes" alias="ct-menu-item-3" path="/menucakes" menutype="hmenu" type="single-article" article="3" showTitle="yes" category="1"/>
+        <menuitem id="4" menu="ct-vertical-menu" title="Menú&amp;Cakes" alias="ct-menu-item-4" path="/menucakes" menutype="vmenu" type="single-article" article="3" showTitle="yes" category="1"/>
+        <menuitem id="5" menu="ct-horizontal-menu" title="Dicono di noi" alias="ct-menu-item-5" path="/new-page-2" menutype="hmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="6" menu="ct-vertical-menu" title="Dicono di noi" alias="ct-menu-item-6" path="/new-page-2" menutype="vmenu" type="single-article" article="4" showTitle="no" category="1"/>
+        <menuitem id="7" menu="ct-horizontal-menu" title="Laboratorio" alias="ct-menu-item-7" path="/laboratorio" menutype="hmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="8" menu="ct-vertical-menu" title="Laboratorio" alias="ct-menu-item-8" path="/laboratorio" menutype="vmenu" type="single-article" article="5" showTitle="yes" category="1"/>
+        <menuitem id="9" menu="ct-horizontal-menu" title="News" alias="ct-menu-item-9" path="/news" menutype="hmenu" type="single-article" article="6" showTitle="yes" category="1"/>
+        <menuitem id="10" menu="ct-vertical-menu" title="News" alias="ct-menu-item-10" path="/news" menutype="vmenu" type="single-article" article="6" showTitle="yes" category="1"/>
+        <menuitem id="11" menu="ct-horizontal-menu" title="Contatto" alias="ct-menu-item-11" path="/contatto" menutype="hmenu" type="single-article" article="7" showTitle="no" category="1"/>
+        <menuitem id="12" menu="ct-vertical-menu" title="Contatto" alias="ct-menu-item-12" path="/contatto" menutype="vmenu" type="single-article" article="7" showTitle="no" category="1"/>
+        <menuitem id="13" menu="ct-special-menu" title="Special Blog Page" alias="ct-menu-item-13" menutype="menu" type="category-blog-layout" category="1"/>
+        <menuitem id="14" menu="ct-special-menu" title="Special Single Page" alias="ct-menu-item-14" menutype="menu" type="single-article" showTitle="yes" category="1"/>
+    </menuitems>
+    <modules>
+        <module id="1" title="Content / Horizontal Menu" showTitle="true" position="user3" type="menu" menu="ct-horizontal-menu"/>
+        <module id="2" title="eventi:" showTitle="true" position="left" type="custom">
+            <![CDATA[<p style="text-align: center;"><img width="169" height="227" alt="" class="art-lightbox" src="images/template-content/310048_581529598534167_394402478_n.jpg"><br></p>]]>
+        </module>
+        <module id="3" title="Seguiteci su:" showTitle="true" position="left" type="custom">
+            <![CDATA[<p style="text-align: left;"><img width="45" height="45" alt="" class="art-lightbox" src="images/template-content/rss.png">&nbsp; &nbsp;<img width="45" height="45" alt="" class="art-lightbox" src="images/template-content/facebook.png">&nbsp;<img width="45" height="45" alt="" class="art-lightbox" src="images/template-content/linkedin.png"><br></p>]]>
+        </module>
+        <module id="4" title="Ultime NOvitÁ" showTitle="true" position="left" type="custom">
+            <![CDATA[<p><img width="64" height="64" alt="" src="images/template-content/11_64x64.png" style="float: left;" class="">Aliquam erat volutpat. Vestibulum eget lectus in orci imperdiet fringilla. Duis neque nulla, sodales non tristique non, sagittis eu purus. &nbsp;<a href="#">Read More</a><br></p>
+<p><img width="64" height="64" alt="" src="images/template-content/16_64x64.png" style="float: left;" class="">&nbsp;Duis neque nulla, sodales non tristique non, sagittis eu purus. Nullam ac eros leo, a sagittis lacus. Duis aliquet cursus massa eu sodales. &nbsp;<a href="#">Read More</a><br></p>]]>
+        </module>
+        <module id="5" title="Footer1" showTitle="false" position="footer1" type="custom">
+            <![CDATA[
+        <h2><span style="color: #FFFFFF;"><br></span></h2>
+         
+        <br>
+    ]]>
+        </module>
+        <module id="6" title="Footer2" showTitle="false" position="footer2" type="custom">
+            <![CDATA[
+        <h2><span style="color: rgb(255, 255, 255); font-size: 9px;">ELEMENTUM MAURIS PURUS, A LOBORTIS NULLA RHONCUS VEL. VESTIBULUM NO N AUGUE LOBORTIS, CONSECTETUR ENIM QUIS, TEMPUS DOLOR. VESTIBULUM ET MAGNA IPSUM. ALIQUAM INTERDUM NULLA VEL ELEMENTUM. MAURIS MI NUNC, CONVALLIS BIBENDUM ANTE ID, TRISTIQUE IACULIS ODIO. SED SIT AMET ULTRICES DUI. SUSPENDISSE VENENATIS FELIS UT MI FRINGILLA PORTTITOR. VIVAMUS TRISTIQUE, NEQUE VITAE</span></h2><p><br></p>
+    ]]>
+        </module>
+        <module id="7" title="Footer3" showTitle="false" position="footer3" type="custom">
+            <![CDATA[
+        <h2><span style="color: rgb(255, 255, 255); font-size: 9px;">ELEMENTUM MAURIS PURUS, A LOBORTIS NULLA RHONCUS VEL. VESTIBULUM NO N AUGUE LOBORTIS, CONSECTETUR ENIM QUIS, TEMPUS DOLOR. VESTIBULUM ET MAGNA IPSUM. ALIQUAM INTERDUM NULLA VEL ELEMENTUM. MAURIS MI NUNC, CONVALLIS BIBENDUM ANTE ID, TRISTIQUE IACULIS ODIO. SED SIT AMET ULTRICES DUI. SUSPENDISSE VENENATIS FELIS UT MI FRINGILLA PORTTITOR. VIVAMUS TRISTIQUE, NEQUE VITAE</span></h2><p><br></p>
+    ]]>
+        </module>
+    </modules>
+    <parameters/>
+</data>
