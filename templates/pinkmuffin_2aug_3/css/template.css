@@ -1,6 +1,8 @@
 #art-main
 {
-  background: #F7F3F0;
+  /* background: #F7F3F0;\
+ */
+  background: #D5FFE2;
   margin: 0 auto;
   font-size: 13px;
   font-family: Verdana, Geneva, Arial, Helvetica, Sans-Serif;
@@ -375,11 +377,11 @@ li p, .art-postcontent li p, .art-blockcontent li p
 {
   margin: 0 auto;
   height: 180px;
-  background-image: url('../images/header.png');
+  background-image: url('../images/Banner_logo_corone.png');
   background-position: 0 0;
   background-repeat: no-repeat;
   position: relative;
-  width: 964px;
+  width: 927px;
   z-index: auto !important;
 }
 
@@ -786,8 +788,11 @@ ul.art-hmenu ul
 
 .art-sheet
 {
-  background: #FFFFFF;
-  background: rgba(255, 255, 255, 0.8);
+  /* background: #FFFFFF;\
+ */
+  /* background: rgba(255, 255, 255, 0.8);\
+ */
+  background: #FFFAFF;
   -webkit-box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.32);
   -moz-box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.32);
   box-shadow: 1px 1px 4px 2px rgba(0, 0, 0, 0.32);
@@ -796,8 +801,11 @@ ul.art-hmenu ul
   margin: 20px auto 0;
   position: relative;
   cursor: auto;
-  width: 964px;
+  /* width: 964px;\
+ */
+  width: 925px;
   z-index: auto !important;
+  border-radius: 3px;
 }
 
 .art-layout-wrapper
