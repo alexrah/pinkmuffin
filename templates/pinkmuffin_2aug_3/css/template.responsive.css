@@ -70,7 +70,7 @@
 .responsive .art-header 
 {
    width: auto;
-   height: auto;
+   /* height: auto; */
    min-height: 100px;
    min-width: 1%;
    margin-right: 1% !important;
@@ -347,12 +347,17 @@
 {
     #art-resp, #art-resp-t { display: block; }
     #art-resp-m { display: none; }
+    /* .responsive .art-header { height: auto; } */
+    .responsive .art-header { margin-bottom: -5%; }
+
 }
 
 @media all and (max-width: 480px)
 {
     #art-resp, #art-resp-m { display: block; }
     #art-resp-t { display: none; }
+    /* .responsive .art-header { height: auto; } */
+    .responsive .art-header { margin-bottom: -10%; }
 }
 
 .responsive .art-content-layout, 
